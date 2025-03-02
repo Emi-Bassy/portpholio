@@ -16,7 +16,7 @@ export interface AboutMe {
   altName?: string;
   institutionUrl?: string;
 }
-
+ 
 export const aboutMe: AboutMe = {
   name: "Jane R. Smith",
   title: "Ph.D. Candidate",
