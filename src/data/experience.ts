@@ -10,21 +10,27 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
-    date: "Summer 2023",
-    title: "Research Intern",
-    company: "DeepMind",
+    date: "Feb 2024 - Jun 2024",
+    title: "Teaching Assistant",
+    company: "Tably",
     description:
-      "Developed novel algorithms for causal structure learning in reinforcement learning settings",
-    advisor: "Peter Wang",
-    companyUrl: "https://deepmind.com",
+      "Assisted elementary and middle school students in learning programming through after-school.",
+    companyUrl: "https://tably.rocks/",
   },
   {
-    date: "Summer 2022",
-    title: "Research Intern",
-    company: "Google Research",
+    date: "Sep 2021 - Mar 2024",
+    title: "Education Mentor",
+    company: "CA Tech Kids",
     description:
-      "Worked on improving robustness of large language models to distribution shifts",
-    manager: "Elise Brown",
-    companyUrl: "https://google.com",
+      "Teached Swift, QUREO, Scratch to elementary and junior high school students.",
+    companyUrl: "https://techkidsschool.jp/",
+  },
+  {
+    date: "Aug 2022 - Sep 2023",
+    title: "Project Manager Intern",
+    company: "Waffle.org (NPO)",
+    description:
+      "Managed the program for minorities in the STEM field that have been selected for the Google.org impact challenge for Women and Girls 2021.",
+    companyUrl: "https://waffle-waffle.org/",
   },
 ];

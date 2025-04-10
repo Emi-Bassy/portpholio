@@ -10,7 +10,7 @@ export interface Award {
       title: "Graduate Thesis Award",
     },
     {
-      date: "Nov 2024",
+      date: "Apr 2024",
       title: "Advancing Inclusion Student Scholarships",
     },
     {
