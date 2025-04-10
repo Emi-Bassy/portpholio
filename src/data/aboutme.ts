@@ -25,7 +25,7 @@ export const aboutMe: AboutMe = {
   description:
     "I'm a recent-graduate from <a href='https://www.iniad.org/'> Toyo University </a> and majoring computer science. My research focuses on Human-Computer Interaction (HCI) and  Educational Technology (EdTech).",
   email: "ichimura.emi01@gmail.com",
-  imageUrl: '/profile_20250401.jpg',
+  imageUrl: '/portpholio/profile_20250401.jpg',
   // "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   // googleScholarUrl: "https://scholar.google.com/citations?user=bWtMl_MAAAAJ",
   githubUsername: "Emi-Bassy",
