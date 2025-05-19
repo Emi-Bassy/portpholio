@@ -7,7 +7,7 @@ export interface Award {
   export const awardData: Award[] = [
     {
       date: "Mar 2025",
-      title: "Graduate Thesis Award",
+      title: "Silver Graduate Thesis Award",
     },
     {
       date: "Apr 2024",

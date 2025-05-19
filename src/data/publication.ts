@@ -15,6 +15,13 @@ export const publicationData: Publication[] = [
   // If you don't want to show publications, just make the array empty.
   {
     year: "2025",
+    conference: "HCI International",
+    title: "Leveraging a Large Language Model to Enhance Motivation in Learning Programming Languages",
+    authors: "Emi Ichimura, Tomonari Kamba",
+    tldr: "Developed a learning system in which a generative AI provides two types of feedback with different purposes when learning programming to motivate learners to study.",
+  },
+  {
+    year: "2025",
     conference: "ICCT-Pacific",
     title: "ColloSpeak: A GenAI-Powered System for Learning English Collocation",
     authors: "Emi Ichimura, M. Fahim Ferdous Khan, Ken Sakamura",
@@ -28,7 +35,7 @@ export const publicationData: Publication[] = [
     conference: "情報処理学会シンポジウム インタラクション",
     title: "プログラミング学習における意欲向上のための生成AI利用の検討",
     authors: "市村衣未, 神場知成",
-    tldr: "Developed a learning system in which a generative AI provides two types of feedback with different purposes when learning programming to motivate learners to study.",
+    paperUrl: "https://www.interaction-ipsj.org/proceedings/2025/data/pdf/3P-80.pdf",
   },
   {
     year: "2024",
